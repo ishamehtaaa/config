@@ -1,5 +1,0 @@
-[general]
-import = [
-    "~/.config/alacritty/themes/themes/ayu_mirage.toml"    
-]
-
